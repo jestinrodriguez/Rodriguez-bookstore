@@ -1,0 +1,51 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "Moby-Dick",
+      "year": 2020,
+      "author": "Herman Melville",
+      "description": "is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee. A contribution to the literature of the American Renaissance, Moby-Dick was published to mixed reviews, was a commercial failure, and was out of print at the time of the author's death in 1891. Its reputation as a Great American Novel was established only in the 20th century, after the centennial of its author's birth. William Faulkner said he wished he had written the book himself,[1] and D. H. Lawrence called it one of the strangest and most wonderful books in the world and the greatest book of the sea ever written.[2] Its opening sentence, Call me Ishmael, is among world literature's most famous.[3]",
+      "image": "/images/moby-dick.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Great Gatsbyk",
+      "year": 1992,
+      "author": "F Scott Fitzgerald",
+      "description": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.",
+      "image": "/images/great-gatsby.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Things Fall Apart",
+      "year": 1923,
+      "author": "Chinua Achebe",
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the arrival of Europeans during the late 19th century. It is seen as the archetypal modern African novel in English, and one of the first to receive global critical acclaim. It is a staple book in schools throughout Africa and is widely read and studied in English-speaking countries around the world. The novel was first published in the UK in 1962 by William Heinemann Ltd, and became the first work published in Heinemann's African Writers Series.",
+      "image": "/images/fall-apart.jpg"
+    }
+  ],
+  "Author": [
+    {
+      "id": 1,
+      "DOB": "July 8 1997",
+      "name": "Herman Melville",
+      "Description": "was an American novelist, short story writer, and poet of the American Renaissance period. Among his best-known works are Moby-Dick (1851); Typee (1846), a romanticized account of his experiences in Polynesia; and Billy Budd, Sailor, a posthumously published novella. Although his reputation was not high at the time of his death, the centennial of his birth in 1919 was the starting point of a Melville revival, and Moby-Dick grew to be considered one of the great American novels.",
+      "Image": "/images/Herman.jpg"
+    },
+    {
+      "id": 2,
+      "DOB": "October 8, 1297",
+      "name": "F Scott Fitzgerald",
+      "Description": "was an American novelist, short story writer, and poet of the American Renaissance period. Among his best-known works are Moby-Dick (1851); Typee (1846), a romanticized account of his experiences in Polynesia; and Billy Budd, Sailor, a posthumously published novella. Although his reputation was not high at the time of his death, the centennial of his birth in 1919 was the starting point of a Melville revival, and Moby-Dick grew to be considered one of the great American novels.",
+      "Image": "/images/F-Scotts.jpg"
+    },
+    {
+      "id": 1,
+      "DOB": "August 22, 1990",
+      "name": "Chinua Achebe",
+      "Description": "was an American novelist, short story writer, and poet of the American Renaissance period. Among his best-known works are Moby-Dick (1851); Typee (1846), a romanticized account of his experiences in Polynesia; and Billy Budd, Sailor, a posthumously published novella. Although his reputation was not high at the time of his death, the centennial of his birth in 1919 was the starting point of a Melville revival, and Moby-Dick grew to be considered one of the great American novels.",
+      "Image": "/images/Herman.jpg"
+    }
+  ]
+}
