@@ -6,7 +6,7 @@ npm i
 
 
 # Start Dev
-npm start
+npm run start
 
 
 # Run temp back-end
