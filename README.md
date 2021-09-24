@@ -1,6 +1,6 @@
 ## How to run the app
 
-#install depencies 
+# Install depencies 
 
 npm i
 
